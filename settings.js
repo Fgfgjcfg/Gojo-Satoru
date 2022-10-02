@@ -19,27 +19,27 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['96891103640']
-global.premium = ['96891103640']
-global.ownernomer = '96891103640'
-global.ownername = '( الـمـطـور )'
-global.botname = '( بـوت غـوجـو )'
-global.footer = '( غـوجـو )'
+global.owner = ['01116578749']
+global.premium = ['01116578749']
+global.ownernomer = '01116578749'
+global.ownername = '( ارمين )'
+global.botname = '( بـوت ساتو )'
+global.footer = '( ساتو )'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3'
-global.myweb = 'https://youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw'
-global.packname = 'https://Wa.Me/+96891103640'
-global.author = '[ غـوجـو ]'
+global.sc = 'https://chat.whatsapp.com/HrmOQ4fvEskAdy1rsc4UHJ'
+global.myweb = 'https://solo.to/gg-nenja'
+global.packname = 'https://wa.me/qr/UNCCRVVZ2XPAB1'
+global.author = '[ ساتو ]'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓',
-    admin: '*「 هـذا الامـر فـقـط لـ المـشـرفـيـن 」◣*',
-    botAdmin: '*「 اعـطـنـي إشـراف لـتـفـعـيـل  الامـر 」◣*',
-    owner: '*「 هـذا الامـر فـقـط لـ الـمـالـك 」◣*',
-    group: '*「 هـذا الامـر فـي الـمـجـمـوعـات فـقـط 」◣*',
+    admin: '*「 هـذا الامـر فـقـط لـ الملازمين 」◣*',
+    botAdmin: '*「 اجعلني ملازم إشـراف لـتـفـعـيـل  الامـر 」◣*',
+    owner: '*「 هـذا الامـر فـقـط لـ المطور 」◣*',
+    group: '*「 هـذا الامـر فـي النقابات  فـقـط 」◣*',
     private: '*「 هـذا الامـر فـي الـخـاص فـقـط 」◣*',
     bot: '*「 هـذا الامـر مـخـصـص لـ الـبـوت 」◣*',
     wait: '*「 انـتـظـر مـن فـضـلـك 」◣*',
