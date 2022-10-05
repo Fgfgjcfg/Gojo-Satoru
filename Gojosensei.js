@@ -3488,8 +3488,8 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 		    「 معكم بوت ساتو 🤗 」◣
 		    「 بوت مساعد شخصي عربي 」◣
 
- 「https://chat.whatsapp.com/E56pLzHyviH7zBx8CGjSsW」◣
-		    「ده لو عايز تتدخل الجروب 」◣
+ 「https://chat.whatsapp.com/FJu4OAbyvh7Apv7YQcL65S」◣
+		    「ده لو عايز تتدخل جروب  اخبار الانمي」◣
 		    「نرحب بالجميع 」◣                 
  「https://chat.whatsapp.com/E56pLzHyviH7zBx8CGjSsW」◣
 		    「ده لنك جروب الصحيفة」◣
