@@ -3488,12 +3488,12 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 		    「 معكم بوت ساتو 🤗 」◣
 		    「 بوت مساعد شخصي عربي 」◣
 
- 「」◣
-		    「」◣
-		    「」◣                 
- 「」◣
-		    「」◣
-		    「」◣`,
+ 「https://chat.whatsapp.com/E56pLzHyviH7zBx8CGjSsW」◣
+		    「ده لو عايز تتدخل الجروب 」◣
+		    「نرحب بالجميع 」◣                 
+ 「https://chat.whatsapp.com/E56pLzHyviH7zBx8CGjSsW」◣
+		    「ده لنك جروب الصحيفة」◣
+		    「نرحب بالجميع」◣`,
                     description: `「 اختر قائمة من فضلك 」◣`,
                     buttonText: "「 القائمة 」◣",
                     footerText: `「لنبد العمل」◣`,
@@ -3622,7 +3622,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             case 'التسجhgjيل': case 'التسجيل': {
                 reply(`「  」◣
 
-「 _ 」◣
+「 _ https://chat.whatsapp.com/E56pLzHyviH7zBx8CGjSsW」◣
 
 「 نرحب بالجميع. 」◣`)
             }
